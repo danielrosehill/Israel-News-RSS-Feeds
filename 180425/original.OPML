@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>NewsFlash OPML export</title>
+  </head>
+  <body>
+    <outline title="Israel - Hebrew" text="Israel - Hebrew">
+      <outline text="Ynet" htmlUrl="https://www.ynet.co.il/" title="Ynet" type="rss" xmlUrl="https://www.ynet.co.il/Integration/StoryRss2.xml" />
+      <outline title="The Marker" type="rss" htmlUrl="https://www.themarker.com/" text="The Marker" xmlUrl="https://www.themarker.com/srv/tm-all-articles" />
+      <outline htmlUrl="https://www.maariv.co.il/" text="Maariv" type="rss" xmlUrl="https://www.maariv.co.il/Rss/RssChadashot" title="Maariv" />
+    </outline>
+    <outline text="OSINT" title="OSINT">
+      <outline htmlUrl="https://www.bellingcat.com/" text="bellingcat" title="bellingcat" xmlUrl="https://www.bellingcat.com/feed/" type="rss" />
+    </outline>
+    <outline title="World News" text="World News">
+      <outline type="rss" htmlUrl="https://foreignpolicy.com/" xmlUrl="https://foreignpolicy.com/feed/" title="Foreign Policy" text="Foreign Policy" />
+    </outline>
+    <outline text="Multilateral" title="Multilateral">
+      <outline title="UN News - Global perspective Human stories" xmlUrl="https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml" text="UN News - Global perspective Human stories" htmlUrl="https://news.un.org/en/" type="rss" />
+    </outline>
+    <outline title="Israel Gov" text="Israel Gov" />
+    <outline text="Jewish World" title="Jewish World">
+      <outline text="AJ+" xmlUrl="https://www.ajplus.net/stories?format=rss" title="AJ+" type="rss" htmlUrl="https://www.ajplus.net/stories/" />
+      <outline htmlUrl="https://www.jfeed.com/" type="rss" text="JFeed" xmlUrl="https://a.jfeed.com/v1/rss/articles/latest/rss2" title="JFeed" />
+      <outline htmlUrl="https://www.jns.org/" type="rss" text="JNS" xmlUrl="https://www.jns.org/feed/" title="JNS" />
+    </outline>
+    <outline text="Israel - English Sources" title="Israel - English Sources">
+      <outline title="Haaretz - Tech" htmlUrl="https://www.haaretz.com/israel-news/tech-news" xmlUrl="https://www.haaretz.com/srv/technology-news-rss" text="Haaretz - Tech" type="rss" />
+      <outline text="Business  " type="rss" xmlUrl="https://www.haaretz.com/srv/business-rss" htmlUrl="https://www.haaretz.com/israel-news/business" title="Business  " />
+      <outline title="Middle East Monitor" type="rss" text="Middle East Monitor" htmlUrl="https://www.middleeastmonitor.com/" xmlUrl="https://www.middleeastmonitor.com/feed/" />
+      <outline type="rss" title="Aruts 7" text="Aruts 7" xmlUrl="http://www.israelnationalnews.com/Rss.aspx?act=0.1" />
+      <outline type="rss" htmlUrl="https://www.haaretz.com/jewish" xmlUrl="https://www.haaretz.com/srv/jewish-world-rss" text="Jewish World " title="Jewish World " />
+      <outline xmlUrl="https://www.israel21c.org/feed/" title="ISRAEL21c" type="rss" htmlUrl="https://www.israel21c.org/" text="ISRAEL21c" />
+      <outline htmlUrl="https://www.youtube.com/channel/UCawNWlihdgaycQpO3zi-jYg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCawNWlihdgaycQpO3zi-jYg" type="rss" title="Israel Defense Forces" text="Israel Defense Forces" />
+      <outline title="The Times of Israel" type="rss" htmlUrl="https://www.timesofisrael.com/" xmlUrl="https://www.timesofisrael.com/feed/" text="The Times of Israel" />
+      <outline text="Aruts 7" title="Aruts 7" type="rss" xmlUrl="https://www.israelnationalnews.com/Rss.aspx?act=.1" />
+      <outline type="rss" htmlUrl="https://www.haaretz.com/israel-news" title="Haaretz Headlines" text="Haaretz Headlines" xmlUrl="https://www.haaretz.com/srv/haaretz-latest-headlines" />
+      <outline htmlUrl="https://www.jpost.com/" type="rss" title="Jerusalem Post" text="Jerusalem Post" xmlUrl="https://rss.jpost.com/rss/rssfeedsfrontpage.aspx" />
+      <outline text="Haaretz - Domestic" htmlUrl="https://www.haaretz.com/israel-news" xmlUrl="https://www.haaretz.com/srv/israel-news-rss" type="rss" title="Haaretz - Domestic" />
+      <outline text="Haaretz - ME" type="rss" xmlUrl="https://www.haaretz.com/srv/middle-east-news-rss" title="Haaretz - ME" htmlUrl="https://www.haaretz.com/middle-east-news" />
+      <outline htmlUrl="https://israel-alma.org/" xmlUrl="https://israel-alma.org/feed/" title="Alma Research and Education Center" text="Alma Research and Education Center" type="rss" />
+    </outline>
+    <outline text="Israel &amp; ME - Foreign" title="Israel &amp; ME - Foreign">
+      <outline title="Guardian" type="rss" xmlUrl="https://www.theguardian.com/world/israel/rss" htmlUrl="https://www.theguardian.com/world/israel" text="Guardian" />
+      <outline xmlUrl="https://feeds.bbci.co.uk/news/world/middle_east/rss.xml" title="BBC" type="rss" htmlUrl="https://www.bbc.co.uk/news/world/middle_east" text="BBC" />
+      <outline text="Al Monitor" xmlUrl="https://www.al-monitor.com/rss" type="rss" title="Al Monitor" htmlUrl="https://www.al-monitor.com/" />
+      <outline type="rss" htmlUrl="https://www.france24.com/en/middle-east/rss" title="France24" xmlUrl="https://www.france24.com/en/middle-east/rss" text="France24" />
+      <outline xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/1898272.cms" text="Times of India" htmlUrl="https://timesofindia.indiatimes.com/articlelist/1898272.cms" title="Times of India" type="rss" />
+      <outline text="Al Bawaba" htmlUrl="https://www.albawaba.com/" type="rss" title="Al Bawaba" xmlUrl="https://www.albawaba.com/rss/all" />
+      <outline xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml" type="rss" text="NYT" htmlUrl="https://www.nytimes.com/section/world/middleeast" title="NYT" />
+      <outline type="rss" xmlUrl="https://menews247.com/feed/" title="ME News" htmlUrl="https://menews247.com/" text="ME News" />
+      <outline text="Middle East Eye" type="rss" title="Middle East Eye" htmlUrl="https://www.middleeasteye.net/" xmlUrl="https://www.middleeasteye.net/rss" />
+      <outline title="Google News" text="Google News" type="rss" htmlUrl="https://news.google.com/search?hl=en-US&amp;gl=US&amp;q=israel&amp;um=1&amp;ie=UTF-8&amp;ceid=US:en" xmlUrl="https://news.google.com/rss/search?hl=en-US&amp;gl=US&amp;q=israel&amp;um=1&amp;ie=UTF-8&amp;ceid=US:en" />
+    </outline>
+    <outline title="NGO &amp; Think Tank" text="NGO &amp; Think Tank">
+      <outline type="rss" htmlUrl="https://www.mei.edu/" title="Middle East Institute" text="Middle East Institute" xmlUrl="https://www.mei.edu/rss.xml" />
+      <outline xmlUrl="https://www.crisisgroup.org/rss/91" htmlUrl="https://www.crisisgroup.org/" type="rss" text="Crisis Group" title="Crisis Group" />
+      <outline htmlUrl="http://middleeastmnt.disqus.com/" type="rss" xmlUrl="https://middleeastmnt.disqus.com/latest.rss" title="Middle East Monitor" text="Middle East Monitor" />
+    </outline>
+    <outline title="Academic" text="Academic">
+      <outline xmlUrl="https://feeds.feedburner.com/lsemiddleeastcentre" htmlUrl="https://blogs.lse.ac.uk/mec" title="Middle East Centre" type="rss" text="Middle East Centre" />
+    </outline>
+    <outline title="Blogs" text="Blogs">
+      <outline type="rss" title="Israelycool" xmlUrl="https://www.israellycool.com/feed/" text="Israelycool" htmlUrl="https://www.israellycool.com/" />
+    </outline>
+  </body>
+</opml>
