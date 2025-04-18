@@ -1,5 +1,7 @@
 # Israel News RSS Feeds
 
+![Date](https://img.shields.io/badge/Updated-April%2018%2C%202025-blue) ![Format](https://img.shields.io/badge/Format-OPML-orange)
+
 ![Screenshot of RSS feeds in action](screenshots/screenshot.png)
 
 ## Overview
@@ -8,19 +10,21 @@ This repository contains a curated collection of RSS feed links for monitoring n
 
 ## Contents
 
-The repository includes an OPML file (`180425/Newsflash.OPML`) that can be imported into any RSS reader supporting the OPML format. The feeds are organized into the following categories:
+The repository includes an OPML file (`180425/sonnet-edited.OPML`) that can be imported into any RSS reader supporting the OPML format. The feeds are organized into the following categories:
 
-- **Israel - Hebrew**: News sources in Hebrew (Ynet, The Marker, Maariv)
-- **OSINT**: Open Source Intelligence (Bellingcat)
-- **World News**: International news sources (Foreign Policy)
-- **Multilateral**: News from international organizations (UN News)
-- **Israel Gov**: Israeli government sources
-- **Jewish World**: News related to Jewish communities (AJ+, JFeed, JNS)
-- **Israel - English Sources**: Israeli news in English (Haaretz, Times of Israel, Jerusalem Post)
-- **Israel & ME - Foreign**: Foreign news about Israel and Middle East (Guardian, BBC, Al Monitor)
-- **NGO & Think Tank**: News from NGOs and think tanks (Middle East Institute, Crisis Group)
-- **Academic**: Academic sources (LSE Middle East Centre)
-- **Blogs**: Blog sources (Israelycool)
+| Category | Description | Included Sources |
+|----------|-------------|-----------------|
+| Academic | Academic institutions and research centers focusing on Israel and Middle East studies | CSIS Middle East, INSS, LSE Middle East Centre, Washington Institute |
+| Blogs | Independent blogs covering Israeli politics, culture, and current events | Elder of Ziyon, Israelycool, Jewish Web Sight |
+| Israel - English Sources | Israeli news sources publishing in English | Alma Research and Education Center, Arutz Sheva, Haaretz (Business, Domestic, Headlines, ME, Tech), i24NEWS English, Israel Defense Forces, ISRAEL21c, Jerusalem Post, Jewish World, Middle East Monitor, Times of Israel, Ynetnews |
+| Israel - Hebrew | Israeli news sources publishing in Hebrew | Israel Hayom, Maariv, The Marker, Walla, Ynet |
+| Israel & ME - Foreign | Foreign news sources covering Israel and the Middle East | Al Bawaba, Al Jazeera, Al Monitor, BBC, CNN Middle East, DW Middle East, France24, Google News, Guardian, ME News, Middle East Eye, NYT, Times of India |
+| Israel Gov | Official Israeli government sources | Israel Defense Forces, Israel Ministry of Foreign Affairs, Knesset, Prime Minister's Office |
+| Jewish World | News sources focusing on Jewish communities worldwide | AJ+, JFeed, Jewish Chronicle, JNS, The Forward |
+| Multilateral | International organizations and multilateral institutions | UN News, UNHCR, UNRWA |
+| NGO & Think Tank | Non-governmental organizations and policy research institutes | Amnesty International, Brookings - Middle East, Crisis Group, Human Rights Watch, Middle East Institute, Middle East Monitor |
+| OSINT | Open Source Intelligence sources for security and conflict analysis | Bellingcat, IntelligenceOnline, OSINT Curious |
+| World News | International news sources with dedicated Middle East coverage | AP News - Israel-Hamas War, Foreign Policy, Reuters Middle East |
 
 ## How to Use
 
@@ -41,7 +45,9 @@ The repository includes an OPML file (`180425/Newsflash.OPML`) that can be impor
 - [Feedreader](https://feedreader.com/)
 - [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk) (Linux)
 
- 
+## Contributing
+
+If you'd like to suggest additional news sources or report broken feeds, please open an issue or submit a pull request.
 
 ## License
 
